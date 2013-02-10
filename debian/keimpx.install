@@ -1,0 +1,3 @@
+contrib usr/share/keimpx/
+keimpx.py usr/share/keimpx/
+debian/helper-script/* usr/bin/
