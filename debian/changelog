@@ -1,3 +1,9 @@
+keimpx (0.3-1kali1) kali; urgency=low
+
+  * Fixed error in helper script
+
+ -- Devon Kearns <dookie@kali.org>  Mon, 19 May 2014 06:40:32 -0600
+
 keimpx (0.3-1kali0) kali; urgency=low
 
   * Initial release 
