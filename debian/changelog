@@ -1,3 +1,9 @@
+keimpx (0.3+git20150318-0kali0) kali; urgency=low
+
+  * Imported fresh checkout
+
+ -- Devon Kearns <dookie@kali.org>  Wed, 18 Mar 2015 20:48:40 -0600
+
 keimpx (0.3-1kali1) kali; urgency=low
 
   * Fixed error in helper script
