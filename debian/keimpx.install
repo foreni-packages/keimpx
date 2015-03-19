@@ -1,3 +1,4 @@
 contrib usr/share/keimpx/
+thirdparty usr/share/keimpx/
 keimpx.py usr/share/keimpx/
 debian/helper-script/* usr/bin/
